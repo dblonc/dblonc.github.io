@@ -3787,3 +3787,11 @@ input, select, textarea {
 .Scord-link:hover{
 	text-decoration: underline;
 }
+
+.devicon-ruby-plain{
+	font-size: 45px;
+}
+
+.devicon-mongodb-plain{
+	font-size: 50px
+}
